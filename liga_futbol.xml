@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ligaFutbol SYSTEM liga_futbol.dtd>
+<direccion type="web">
+
+<deportistas>
+  <deportista>
+    <deporte>Atletismo</deporte> 
+    <nombre>Jesse Owens</nombre>
+	</deportista>
+  <deportista>
+    <deporte>Natación</deporte> 
+    <nombre>Mark Spitz</nombre>
+  </deportista>
+  <deportista> 
+    <nombre>Simon Biles</nombre>
+    <deporte>Gimnasia artística</deporte> 
+    <nombre>Leo Messi</nombre>
+  </deportista>
+</deportistas>
